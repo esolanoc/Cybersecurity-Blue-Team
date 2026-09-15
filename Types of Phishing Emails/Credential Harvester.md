@@ -1,6 +1,6 @@
-# 🎣 Phishing Overview
+# 🎣 Credential Harvester
 
-Phishing is one of the **most common types of cyberattacks** because it targets **human weaknesses** to steal credentials that can later be used to gain access to services or accounts.
+Is one of the **most common types of cyberattacks** because it targets **human weaknesses** to steal credentials that can later be used to gain access to services or accounts.
 
 ---
 
