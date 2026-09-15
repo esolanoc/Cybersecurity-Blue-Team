@@ -2,14 +2,14 @@
 
 System Engineer | IAM Senior Associate |  Comptia Security + |  Blue Team Junior Analyst
 
-## Repositorios
+## Repositories
 
 ⚡[BTLO-Completed-Investigations](https://github.com/esolanoc/BTLO-Completed-Investigations)
 🔐[Identity-Access-Management](https://github.com/esolanoc/Identity-Access-Management)
 📂[Cyber-Security-Blue-Team](https://github.com/esolanoc/Cybersecurity-Portfolio-Esteban-Solano)
 
 
-## Contacto
+## Contact
 
 🔗 [LinkedIn](https://www.linkedin.com/in/esolanoc)  
 
