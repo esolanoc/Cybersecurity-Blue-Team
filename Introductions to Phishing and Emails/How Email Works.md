@@ -1,8 +1,5 @@
 # 📧 How Email Works
 
-**Date:** Tuesday, March 3, 2026  
-**Time:** 11:44 AM  
-
 ---
 
 ## 📨 Email Structure
