@@ -17,4 +17,4 @@ It provides context and information about a file, such as:
 - 📅 **Date & time** of creation or modification.  
 - 👤 **Author or owner** of the file.  
 - 📍 **Location** or path where the file is stored.  
-- ⚙️ **
+
