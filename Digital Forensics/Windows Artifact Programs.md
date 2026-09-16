@@ -28,4 +28,4 @@ They can help investigators reconstruct what programs were executed, when, and h
 - Useful for reconstructing user activity and file access.  
 - 📍 Location:
 -   C:\Users\% USERNAME%\AppData\ Roaming\Microsoft\Windows\Recent\AutomaticDestinations
-
+- 🛠️ Tools: JumpList Explorer
