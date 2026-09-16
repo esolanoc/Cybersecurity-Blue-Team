@@ -27,3 +27,9 @@ It ensures that electronic evidence is handled properly to maintain its integrit
 ---
 
 ### 4. 🧩 Analysis
+- A depth search for the incident being investigated
+
+---
+
+### 4.  📝 Reporting
+- Reports are made to prove techniques and methodology 
