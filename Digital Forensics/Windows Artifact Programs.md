@@ -26,4 +26,6 @@ They can help investigators reconstruct what programs were executed, when, and h
 ## 📌 Jump List Files
 - Contain information about applications **pinned in the taskbar**.  
 - Useful for reconstructing user activity and file access.  
-- 📍 Location:  
+- 📍 Location:
+-   C:\Users\% USERNAME%\AppData\ Roaming\Microsoft\Windows\Recent\AutomaticDestinations
+
