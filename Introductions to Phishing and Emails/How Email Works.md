@@ -5,10 +5,10 @@
 ## 📨 Email Structure
 An email address has two parts:  
 
-- **Mailbox** → `esteban`  
+- **Mailbox** → `name`  
 - **Domain** → `example.com`  
 
-Example: `esteban@example.com`
+Example: `name@example.com`
 
 ---
 
