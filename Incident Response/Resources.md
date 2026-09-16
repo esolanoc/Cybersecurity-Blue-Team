@@ -2,9 +2,6 @@
 
 --
 
-• Various Incident Response Resources
-// Incident Response Consortium | The First & Only IR Community
- 
 • A Curated List of Tools for Incident Response
 // https://github.com/meirwah/awesome-incident-response
  
