@@ -55,6 +55,5 @@ Documentation explaining:
 - **MITRE ATT&CK mapping** for each rule to align with industry standards.  
 
 ---
-
-✅ **In short:** This project is a practical Sigma rule library for SOC analysts, security engineers, and students who want to learn how to detect threats across multiple environments and integrate them into their SIEM.
+This project is a practical Sigma rule library for SOC analysts, security engineers, and students who want to learn how to detect threats across multiple environments and integrate them into their SIEM.
 
