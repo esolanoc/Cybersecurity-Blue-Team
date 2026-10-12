@@ -1,9 +1,10 @@
-## Privilege Escalation Attempts
+# 🔹 Sigma Rule - Privilege Escalation Attempts
+
+This rule detects **privilege escalation** in Windows systems by monitoring key Security Event ID 4772.
 
 ---
-This rule detects when a malicious actor is performing privilege escalation
----
 
+##  Rule Content
 ```yaml
 title: Windows Privilege Escalation Attempt
 id: 11111111-2222-3333-4444-555555555555
