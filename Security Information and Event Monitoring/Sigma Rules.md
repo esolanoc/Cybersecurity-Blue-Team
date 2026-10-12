@@ -1,4 +1,4 @@
-# 📖 Sigma Rules Overview
+# 📖 Sigma Rules
 
 Sigma is an **open detection rule format** written in YAML. It allows analysts to describe suspicious behaviors in logs and then translate those rules into queries for different SIEMs (Splunk, Elastic, Sentinel, QRadar, etc.).  
 Its main strength is **portability**: write once, use anywhere.
