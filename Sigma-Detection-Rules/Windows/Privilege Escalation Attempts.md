@@ -1,5 +1,8 @@
 ## Privilege Escalation Attempts
 
+---
+This rule detects when a malicious actor is performing privilege escalation
+---
 
 ```yaml
 title: Windows Privilege Escalation Attempt
