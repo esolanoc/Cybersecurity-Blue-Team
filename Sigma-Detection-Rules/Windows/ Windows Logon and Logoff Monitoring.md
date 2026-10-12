@@ -10,7 +10,7 @@ title: Windows Logon and Logoff Monitoring
 id: 9a8b7c6d-1234-5678-9101-abcdef987654
 status: stable
 description: Detects user logon and logoff activity in Windows systems.
-author: mackie1417
+author: Esteban
 date: 2026/10/12
 logsource:
   product: windows
