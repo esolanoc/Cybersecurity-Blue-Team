@@ -31,27 +31,3 @@ falsepositives:
   - Unknown
 level: medium
 
-# 🔹 Detection Principles
-
-- **Selections** → groups of conditions to match  
-- **AND / OR logic** → objects = AND, lists = OR  
-- **Detection methods**:
-  - Keywords (e.g., `rm *bash_history`)  
-  - Field values (e.g., `EventID: 6416`)  
-  - Lists of values (e.g., `EventID: [4728, 4729, 4730]`)  
-
----
-
-# 🔹 Practical Examples
-
-## Linux – Bash history tampering
-```yaml
-title: Bash History Tampering
-logsource:
-  product: linux
-detection:
-  keywords:
-    - "rm *bash_history"
-    - "history -c"
-  condition: keywords
-
