@@ -1,4 +1,4 @@
-# 📖 Sigma Rules Project
+# 📖 Sigma Rules
 
 ## 🔹 What you can find
 This repository contains a collection of **Sigma detection rules** designed to identify suspicious or malicious activity across different platforms.  
