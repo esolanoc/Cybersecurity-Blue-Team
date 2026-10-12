@@ -39,15 +39,6 @@ Examples include:
 
 ---
 
-### `/docs/`
-Documentation explaining:
-- How Sigma rules are structured (title, logsource, detection, metadata)  
-- How to convert rules into queries for different SIEMs using **sigmac**  
-- References to MITRE ATT&CK techniques and external resources  
-- Best practices for tuning and reducing false positives  
-
----
-
 ## 🔹 What You’ll Find
 - **Detection rules** written in YAML format.  
 - **Examples** of suspicious activity detection for Windows, Linux, and Cloud.  
@@ -55,5 +46,6 @@ Documentation explaining:
 - **MITRE ATT&CK mapping** for each rule to align with industry standards.  
 
 ---
+
 This project is a practical Sigma rule library for SOC analysts, security engineers, and students who want to learn how to detect threats across multiple environments and integrate them into their SIEM.
 
