@@ -1,6 +1,6 @@
 # 📖 Sigma Rules Project
 
-## 🔹 Summary
+## 🔹 What you can find
 This repository contains a collection of **Sigma detection rules** designed to identify suspicious or malicious activity across different platforms.  
 Sigma is a **universal detection language for logs**, allowing analysts to write rules once and apply them across multiple SIEMs (Splunk, Elastic, Wazuh, Sentinel, QRadar, etc.).
 
