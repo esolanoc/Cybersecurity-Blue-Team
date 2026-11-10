@@ -11,6 +11,7 @@ Repository focused on cybersecurity theory, covering Digital Forensics, SIEM fun
 ⚡[BTLO-Completed-Investigations](https://github.com/esolanoc/BTLO-Completed-Investigations)
 🔐[Identity-Access-Management](https://github.com/esolanoc/Identity-Access-Management)
 📂[Cyber-Security-Blue-Team](https://github.com/esolanoc/Cybersecurity-Portfolio-Esteban-Solano)
+🚀[Sigma-Detection-Rules](https://github.com/esolanoc/Cybersecurity-Blue-Team/tree/main/Sigma-Detection-Rules)
 
 
 ## Contact
